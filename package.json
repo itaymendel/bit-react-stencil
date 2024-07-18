@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@frontend/stencil.examples.my-stencil-comp": "0.0.0-a7ccdc6cc88044c4782c8f72c713d03f6ad35fc4",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -14,6 +15,7 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
+    "wc-react": "^0.5.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
